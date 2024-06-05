@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(230, 222, 179);
+    font-family: Arial, Verdana, sans-serif;
+    color: rgb(173, 165, 90);
+}
+
+h1 {
+    font-weight: bold;
+    color: rgb(223, 209, 85);
+}

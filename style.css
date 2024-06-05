@@ -1,0 +1,14 @@
+h1 {
+    font-weight: bold;
+    color: rgb(176, 230, 168);
+}
+
+body {
+    background-color: rgb(128, 200, 209);
+    font-family: Arial, Verdana, sans-serif;
+}
+
+ul, a {
+    color: greenyellow;
+}
+
