@@ -1,14 +1,42 @@
 h1 {
     font-weight: bold;
-    color: rgb(176, 230, 168);
+    color: rgb(255, 255, 255);
+    background-color: darkorange;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 16px;
+    width: 10;
+    height: 400; 
+    display: inline-block;
 }
 
 body {
     background-color: rgb(128, 200, 209);
     font-family: Arial, Verdana, sans-serif;
+    text-align: center;
 }
 
 ul, a {
-    color: greenyellow;
+    color: rgb(255, 255, 255);
+    text-align: center;
 }
 
+.button-1, .button-2, .button-3 {
+    display: inline;
+    box-sizing: border-box;
+    background-color: rgb(160, 12, 12);
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 8px;
+    margin: 8px;
+}
+
+.button-2 {
+    background-color: #1c7bd4;
+}
+
+.button-3 {
+    background-color: #d4cb16;
+}
